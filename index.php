@@ -1,1 +1,5 @@
-<?php echo this is sample page?>
+<?php 
+    
+    echo "this is sample page"
+
+?>
